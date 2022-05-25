@@ -7,6 +7,10 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <h1>this is React App Test</h1>
+    <p>
+      you are seeing <code>index.js</code>
+    </p>
     <App />
   </React.StrictMode>
 );
